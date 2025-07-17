@@ -1,0 +1,9 @@
+transformers
+peft
+datasets
+sentence-transformers
+faiss-cpu
+langchain
+evaluate
+scikit-learn
+gradio
